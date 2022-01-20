@@ -31,10 +31,14 @@ export default function Portfolio() {
        <main>
            <div className={Style.projectsGrid}>
                {createGrid()}
-               <Apptodo />
+           
+           <Apptodo />
                <App />
+         
               
            </div>
+           
        </main>
+       
     );
 };
