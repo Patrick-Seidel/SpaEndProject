@@ -18,7 +18,7 @@ export default function Portfolio() {
         for(let i = 0; i < portfolioInfo.length; i++) {
                 results.push(
                     <div className={Style.block}>
-                        <a target="_blank" rel="noopener noreferrer" href={info.portfolio[i].liveLink}><img className={Style.image} src={mocks[j++]}/></a>
+                        <a target="_blank" rel="noopener noreferrer" href={info.portfolio[i].liveLink}><img className={Style.image} alt='Ich Selber' src={mocks[j++]}/></a>
                         <h1>{info.portfolio[i].title}</h1>
                         <a target="_blank" rel="noopener noreferrer" href={info.portfolio[i].sourceLink} style={{backgroundColor: colors[1]}} className={Style.source}>Klick mich</a>
                     </div>
