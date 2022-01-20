@@ -7,7 +7,7 @@ export const info = {
     firstName: " Patrick ",
     lastName: " Seidel ",
     initials: "PS", 
-    position: "Full Stack Developer",
+    position: "Developer",
     selfPortrait: self, 
     gradient: `linear-gradient(135deg, ${colors})`, 
     miniBio: [ 

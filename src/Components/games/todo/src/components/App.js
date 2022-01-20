@@ -16,7 +16,6 @@ export default class Apptodo extends Component {
   addItem = (newitem) => {
     let item = {id: this.state.items.length, text: newitem, done: false}
 
-    //agregando los items al array vacio de items 
     this.setState({
       items: [...this.state.items, item]
     })
