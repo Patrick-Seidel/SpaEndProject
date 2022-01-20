@@ -1,0 +1,13 @@
+.listdone-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: line-through;
+    list-style: none;
+    width: 300px;
+    border: 1px solid rgb(126, 120, 120);
+    padding: 2px;
+    font-size: 14px;
+    background: white;
+color: black;
+}

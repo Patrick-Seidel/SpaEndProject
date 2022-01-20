@@ -29,7 +29,7 @@ export const info = {
     ],
     portfolio: [ 
         {
-            title: "MiniRPG",
+            title: "ToDo",
             liveLink: "",
             sourceLink: "",
         },

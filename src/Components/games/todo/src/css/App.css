@@ -1,0 +1,65 @@
+body{
+  background: url(../components/4k-desktop-wallpaper.-1920×1080.jpg)
+
+}
+
+
+.App {
+  border: 1px solid black;
+  width: 350px;
+margin:  25px 0 0 30%;
+
+}
+
+.App-header {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: 350px;
+  background: url(../components/dpAgZmBo_400x400.jpg)
+}
+
+
+
+.btn {
+	color: inherit;
+	border: none;
+  background-color: blue;
+  color: white;
+  box-shadow: 2px 2px 2px rgba(41, 40, 40, 0.5);
+  padding: 3px;
+  width: 100px;
+}
+
+input {
+display: inline-block;
+margin-left: 40px;
+padding: 0px;
+width: 150px;
+}
+
+h1{
+  font-size: 16px;
+  margin-left: 15px;
+}
+
+h2{
+  font-size: 14px;
+  text-align: left;
+  margin-left: 15px;
+}
+
+span {
+  margin-left: 15px;
+  font-size: 12px;
+}
+
+Button {
+  border-radius: 50%;
+  color: white;
+  background: blue;
+  
+  }
