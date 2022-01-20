@@ -31,12 +31,12 @@ export const info = {
         {
             title: "ToDo",
             liveLink: "",
-            sourceLink: "",
+            sourceLink: "#portfolio",
         },
         {
             title: "Memorie",
             liveLink: "",
-            sourceLink: "",
+            sourceLink: "#portfolio",
         },
      
     ]
