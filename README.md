@@ -24,3 +24,7 @@
 ### Probleme
 Zu viel Zeit gelassen mit der Game-Engine von React.
 Spiel im Falschen Format erstellt und bearbeitet, somit nicht Kompatibel mit Portfolio Seite.
+
+### Gelernt
+Typescript
+App Verbinden
