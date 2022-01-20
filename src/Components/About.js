@@ -61,8 +61,12 @@ export default function About() {
                     <p><span style={{color: colors[1]}}>{info.firstName.toLowerCase()}{info.lastName.toLowerCase()} $</span> cd Skills</p>
                     <p><span style={{color: colors[1]}}>skills <span className={Style.green}></span> $</span> ls</p>
                     <ul>
-
-                       
+        <li>Javascript</li>
+        <li>CSS/Html</li>
+        <li>React</li>
+        <li>PHP</li>
+        <li>typescript</li>
+        <li>Many More</li>               
                     </ul>
                 </div>
             </div>
