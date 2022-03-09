@@ -2,8 +2,7 @@ import React from 'react';
 import Style from './Portfolio.module.scss';
 import mock1 from '../img/mock1.png';
 import mock2 from '../img/mock2.png';
-import App from './games/memorie/src/App'
-import Apptodo from './games/todo/src/components/App'
+import App from './games/memorie/src/App';
 import {info, colors} from '../Info/Info';
 
 
@@ -31,13 +30,9 @@ export default function Portfolio() {
        <main>
            <div className={Style.projectsGrid}>
                {createGrid()}
-           
-           <Apptodo />
-               <App />
-         
-              
+           <App classNamw={Style.app}/>
            </div>
-           
+          
        </main>
        
     );

@@ -29,12 +29,12 @@ export const info = {
     ],
     portfolio: [ 
         {
-            title: "ToDo",
+            title: "Github",
             liveLink: "",
             sourceLink: "#portfolio",
         },
         {
-            title: "Memorie",
+            title: "linked",
             liveLink: "",
             sourceLink: "#portfolio",
         },
