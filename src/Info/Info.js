@@ -1,7 +1,7 @@
 import React from 'react';
 import self from '../img/self.png';
 
-export let colors = ["rgb(185, 85, 211)", "rgb(247, 10, 7)"];
+export let colors = ["rgb(185, 80, 211)", "rgb(247, 110, 7)"];
 
 export const info = {
     firstName: " Patrick ",
